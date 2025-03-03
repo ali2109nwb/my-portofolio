@@ -5,7 +5,7 @@ import styles from "./Hero.module.css";
 
 const Hero = () => {
   const handleDownload = () => {
-    window.open("../assets/hero/cvku.pdf", "_blank");
+    window.open("../assets/hero/cv_NURALI.pdf", "_blank");
   };
 
   return (
