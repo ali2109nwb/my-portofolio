@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Frontend Web Travell",
+    "imageSrc": "projects/travell.PNG",
+    "description": "This project was created as part of the Frontend Fundamental Training by Kominfo. It focuses on building a responsive and interactive user interface using HTML, CSS, and JavaScript. Key features.",
+    "skills": ["HTML", "JavaScript", "CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ali2109nwb/travell-web.git"
+  },
+  {
+    "title": "CRUD",
+    "imageSrc": "projects/crud.PNG",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["NodeJS", "Express", "Sequelize", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ali2109nwb/crud-express-sequelize.git"
+  },
+  {
+    "title": "Login Role Admin & User",
+    "imageSrc": "projects/login.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["NodeJS", "Express", "Sequelize", "React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ali2109nwb/login-nds.git"
+  },
+  {
+    "title": "JWT Authentication ",
+    "imageSrc": "projects/jwt.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["NodeJS", "Express", "Sequelize"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ali2109nwb/express-jwt-nds.git"
+  },
+  {
+    "title": "Frontend Web Portofolio",
+    "imageSrc": "projects/portofolio.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["ReactJS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/ali2109nwb/express-jwt-nds.git"
+  }
+]

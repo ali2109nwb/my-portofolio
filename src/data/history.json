@@ -1,0 +1,35 @@
+[
+  {
+    "role": "PT Cipta Teknik Utama",
+    "organisation": "IT Support",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Provided technical support for display solutions like videowalls and LED screens",
+      "Developed the company's frontend website using PHP, HTML, CSS, and JavaScript"
+    ],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "PT SISI",
+    "organisation": "IT Support",
+    "startDate": "Mar, 2024",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Installed and configured hardware and software systems",
+      "Assisted in IT infrastructure deployment "
+    ],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "GTA Construction",
+    "organisation": "Staff IT",
+    "startDate": "Sep, 2023",
+    "endDate": "Feb, 2024",
+    "experiences": [
+      "Managed network configurations and troubleshooting for office systems",
+      "Provided technical support for hardware and software issues"
+    ],
+    "imageSrc": "history/netflix.png"
+  }
+]
