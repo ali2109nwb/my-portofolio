@@ -33,13 +33,14 @@
 
 .aboutImage {
   width: 25%;
+  margin-right: 75px;
 }
 
 .aboutItems {
   color: var(--color-text);
   display: flex;
   flex-direction: column;
-  gap: 50px;
+  gap: 10px;
 }
 
 .aboutItem {
