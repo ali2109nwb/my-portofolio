@@ -4,7 +4,7 @@
     "imageSrc": "projects/travell.PNG",
     "description": "This project was created as part of the Frontend Fundamental Training by Kominfo. It focuses on building a responsive and interactive user interface using HTML, CSS, and JavaScript. Key features.",
     "skills": ["HTML", "JavaScript", "CSS"],
-    "demo": "https://www.example.com",
+    "demo": "https://travell-idn.vercel.app/",
     "source": "https://github.com/ali2109nwb/travell-web.git"
   },
   {
