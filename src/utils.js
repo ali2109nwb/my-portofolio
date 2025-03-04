@@ -1,3 +1,3 @@
 export const getImageUrl = (path) => {
-  return `/public/${path}`;
+  return `/static/${path}`;
 };
